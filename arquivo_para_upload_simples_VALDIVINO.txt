@@ -1,0 +1,8 @@
+ARQUIVO DE TESTE PARA UPLOAD
+
+Este arquivo deve ser usado no PRINT 3 do trabalho.
+
+Aluno: VALDIVINO NONATO AMARO JUNIOR
+Disciplina: Gestão de Configuração
+
+Use este arquivo para fazer o upload no GitHub: Add file → Upload files → Commit changes.
